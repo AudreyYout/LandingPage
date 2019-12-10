@@ -1,0 +1,31 @@
+//palette
+$color-blue: #89DAE8;
+$color-blue2: #8ED0E3;
+$color-blue3: #506FC9;
+$color-purple3: #8D82DB;
+$color-purple4: #AAA9F5;
+$color-purple5: #8C46D5;
+$color-purple1: #9B84D8;
+$color-purple2: #A18BDE;
+$color-yellow: #EED47C;
+$color-grey: #C6BFE2;
+$color-white: #fff;
+
+
+$color-darknavy600: #001738;
+$color-darknavy500: #182C49;
+$color-darknavy400: #8492A6;
+$color-darknavy300: #C0CCDA;
+$color-darknavy200: #E5E9F2;
+$color-darknavy100: #FFFFFF;
+
+
+
+$color-bg: $color-purple1;
+$color-primary: $color-darknavy300;
+$color-accent: $color-yellow;
+$color-dark: darken($color-primary, 20%);
+$color-text: lighten($color-primary, 72%);
+$color-text-light: lighten($color-primary, 85%);
+$color-text: $color-darknavy300;
+$color-link: $color-yellow;

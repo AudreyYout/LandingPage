@@ -1,0 +1,22 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100vh;
+  background: $color-purple1;
+}
+
+body {
+  background: linear-gradient($color-purple1,$color-purple2);
+}
+
+img {
+  max-width: 100%;
+  width: auto \9;
+  height: auto !important;
+  -ms-interpolation-mode: bicubic;
+}
